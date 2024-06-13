@@ -1,5 +1,6 @@
 # Loan-Analysis-for-Lending-Club
 1-Define Problem/Problem Understanding
+
 1.1. Specify The Business Problem
 The current lending strategy is not working well because it doesn't use enough information from LendingClub loan data. This makes it hard for the institution to understand borrower behavior and market trends. As a result, they face problems like not identifying risks correctly, having trouble predicting loan defaults, and not being able to adjust lending criteria as market conditions change.
 
@@ -11,6 +12,7 @@ A comprehensive literature survey is crucial for understanding existing methodol
 
 2-Data Collection & Extraction From Database
 Data collection is the process of gathering and measuring information in a structured way. This helps to answer research questions, test ideas, evaluate results, and gain insights from the data.
+
  Step 1: Downloading the dateset from the given link 
               Dataset link - https://www.kaggle.com/datasets/husainsb/lendingclub-issued-loans
 
@@ -44,12 +46,33 @@ Data Preparation link - https://drive.google.com/file/d/1Yhu87yAPfzpEJir-LVOWeFR
 Now perform the various visualizations
 
 Loan Amount Analysis: This visualization shows the average loan amount taken by members for different loan terms, like 36 months or 60 months. Common visualizations for analyzing bank performance and efficiency include bar charts, line charts, heat maps, scatter plots, pie charts, and maps.
+![Loan amount analysis](https://github.com/Utkarshbansal304/Loan-Analysis-for-Lending-Club/assets/125144848/a34d6ee6-6956-4bee-83e8-7a53635a0737)
+
+
 Average Loan amount For the Account_Type
+![indivudailjoiint](https://github.com/Utkarshbansal304/Loan-Analysis-for-Lending-Club/assets/125144848/722facfc-f125-4dab-a909-1f0af18cd999)
+
+
+
 Total Loan_amount
+![total loan amount](https://github.com/Utkarshbansal304/Loan-Analysis-for-Lending-Club/assets/125144848/e370963f-817d-4e37-8db2-7e0806ec98d3)
+
+
 Total number of Loan_Account
+![loan account](https://github.com/Utkarshbansal304/Loan-Analysis-for-Lending-Club/assets/125144848/40b63a24-a5a6-4b97-a592-a546931639f9)
+
+
 Average Loan Amount -State Wise
+![state](https://github.com/Utkarshbansal304/Loan-Analysis-for-Lending-Club/assets/125144848/fa504a5f-2d97-4485-a59c-027be030738d)
+
+
 Grade Wise- Count of Members
+![grade wise](https://github.com/Utkarshbansal304/Loan-Analysis-for-Lending-Club/assets/125144848/dbb9495d-edf1-4c24-a5ec-4cd9f75c5ebf)
+
+
 Verification_Status
+![verification](https://github.com/Utkarshbansal304/Loan-Analysis-for-Lending-Club/assets/125144848/f807edf2-2da6-42b1-b87f-ec5e2d336adc)
+
 
 5- Dashboard
 A dashboard is a visual interface that presents information and data in a clear and organized way. It's often used for real-time data monitoring and analysis, tailored to specific purposes or tasks. Dashboards are used in many fields like business, finance, manufacturing, healthcare, and more. They help track key performance indicators (KPIs), monitor metrics, and display data as charts, graphs, and tables.
