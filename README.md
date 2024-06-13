@@ -101,8 +101,12 @@ Data stories can be shared through reports, presentations, interactive visualiza
 Explanation video link for design of story:
 Link 1:
 https://drive.google.com/file/d/1Xrq6Q03zFz3K9QiD-F-50LZUc7qju2Hx/view?usp=sharing
+![Screenshot 2024-06-13 121437](https://github.com/Utkarshbansal304/Loan-Analysis-for-Lending-Club/assets/125144848/44a4a81e-3c23-4a6c-974a-1dfaad050210)
+
 Link 2:
 https://drive.google.com/file/d/1lwR9mnFji4DKAKJeaSuPfpIvEAApf_K9/view?usp=sharing
+![Screenshot 2024-06-13 121415](https://github.com/Utkarshbansal304/Loan-Analysis-for-Lending-Club/assets/125144848/6ec39f1f-55ce-4d37-b4db-3007f415e590)
+
 
 7- Performance Testing 
 
