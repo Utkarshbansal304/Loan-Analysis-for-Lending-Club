@@ -24,6 +24,7 @@ loan_amnt: The amount of the loan taken by members.
 term: The duration of the loan.
 int_rate: The interest rate applied to the loan.
 grade: The grade assigned to the members.
+
 3- Data Preparation
 
 To prepare the data for visualization, we need to:
