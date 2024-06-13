@@ -57,10 +57,14 @@ A dashboard is a visual interface that presents information and data in a clear 
 Dashboard 1: Average loan analysis
 Explanation video link:
 https://drive.google.com/file/d/1XIGMXB9JdEMlM2NEzFqrywGjMJ6gPBad/view?usp=sharing
+OUTPUT -![Dashboard-1](https://github.com/Utkarshbansal304/Loan-Analysis-for-Lending-Club/assets/125144848/ec688496-791b-41d1-9c44-9512ab5286c5)
+
 
 Dashboard 2: Count analysis
 Explanation video link :
 https://drive.google.com/file/d/14WcP_VPGO5SGPK1HtYlwQqP9FfTNCbmB/view?usp=sharing
+OUTPUT - ![Dashboard-2](https://github.com/Utkarshbansal304/Loan-Analysis-for-Lending-Club/assets/125144848/6af363bd-b3d7-47ce-941b-1ca4fa398220)
+
 
 6- Story 
 A data story presents data and analysis in a narrative format to make the information more engaging and understandable. It usually includes:
